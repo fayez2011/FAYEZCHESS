@@ -1,0 +1,12 @@
+{
+  "name": "nexus-chess",
+  "version": "1.0.0",
+  "description": "Futuristic multiplayer chess game",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": ["chess", "multiplayer", "game"],
+  "author": "",
+  "license": "MIT"
+}
